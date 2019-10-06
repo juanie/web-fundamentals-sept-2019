@@ -1,0 +1,20 @@
+/* Add your CSS here */
+body {
+    font-family: 'Manjari', sans-serif;
+    background-image: url(assets/bg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+  }
+  main {
+    text-align: center;
+    color: white;
+    position: relative;
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+    max-height: 100%;
+  }  
